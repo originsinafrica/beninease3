@@ -1,0 +1,6 @@
+{
+  "name": "Beninease",
+  "description": "Découvrez le Bénin - Une plateforme immersive où les gardiens de la culture béninoise partagent leur histoire, leur art et leur sagesse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
